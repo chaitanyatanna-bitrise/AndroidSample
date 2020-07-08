@@ -5,7 +5,7 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "com.bitrise_io.sample_apps_android_simple"
+        applicationId "io.bitrise.sample_apps_android_simple"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
